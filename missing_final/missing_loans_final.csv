@@ -1,0 +1,25 @@
+Borrower_id,Country,Sector,Picture,LoanTerm(Months),Repayment Schedule,Pre-distributed,Listed,Currency Exchange Loss,Default Protection,English_Description,Translated,Field Partner,Borrower Count,Female Percentage,Lender Count,Country Code,Town,Geo Location,Activity,Funded Date,Loan Amount,Funded Amount,Planned Expiration Date,Status
+405735,Armenia,Retail,1,26,Monthly,2012-02-27,2012-04-03,N/A,0,1,0,169,1,0.0,35,AM,Yerevan,40 45,General Store,XXXX,3000,975,2012-05-03,expired
+407146,Ecuador,Retail,1,15,Monthly,2012-02-27,2012-04-07,N/A,0,0,1,147,1,100.0,27,EC,Libertad,-2 -77.5,Home Products Sales,XXXX,1475,850,2012-05-07,expired
+407147,Ecuador,Clothing,1,15,Monthly,2012-02-27,2012-04-07,N/A,0,0,1,147,1,100.0,39,EC,Libertad,-2 -77.5,Clothing Sales,XXXX,1575,1100,2012-05-07,expired
+406822,Palestine,Personal Use,1,26,Monthly,2012-03-06,2012-04-04,N/A,0,1,0,80,1,0.0,56,PS,"Ramallah City, West Bank",31.92157 35.203285,Wedding Expenses,XXXX,2000,1650,2012-05-04,expired
+407513,Armenia,Agriculture,1,26,Monthly,2012-03-07,2012-04-05,N/A,0,1,0,169,1,0.0,28,AM,"Akunk village, Kotayk region",40 45,Cattle,XXXX,1500,1450,2012-05-05,expired
+407126,Ecuador,Retail,1,15,Monthly,2012-02-29,2012-04-07,N/A,0,0,1,147,1,0.0,12,EC,Libertad,-2 -77.5,Plastics Sales,XXXX,875,400,2012-05-07,expired
+407326,Armenia,Clothing,1,27,Monthly,2012-03-16,2012-04-05,N/A,0,1,0,169,1,100.0,46,AM,Yerevan,40 45,Clothing Sales,XXXX,3000,1575,2012-05-05,expired
+406400,Jordan,Retail,1,18,Monthly,2012-02-26,2012-04-04,0,0,1,0,174,1,100.0,23,JO,Irbid,31 36,Home Products Sales,XXXX,725,625,2012-05-04,expired
+406508,Honduras,Food,1,12,Monthly,2012-03-17,2012-04-06,0,0,0,1,118,1,0.0,10,HN,Choluteca,13.333333 -87.083333,Grocery Store,XXXX,800,350,2012-05-06,expired
+406891,Armenia,Clothing,1,26,Monthly,2012-03-02,2012-04-04,N/A,0,1,0,169,1,100.0,55,AM,Yerevan,40 45,Clothing Sales,XXXX,3000,1775,2012-05-04,expired
+407487,Kenya,Retail,1,20,Monthly,2012-03-06,2012-04-05,0,0,1,0,133,1,0.0,30,KE,Naivasha,-0.716667 36.433333,Electronics Sales,XXXX,1225,825,2012-05-05,expired
+405179,Jordan,Clothing,1,18,Monthly,2012-02-20,2012-04-03,0,0,1,0,174,1,100.0,17,JO,"Al Nasser, Amman",31 36,Clothing Sales,XXXX,1425,650,2012-05-03,expired
+405178,Jordan,Services,1,21,Monthly,2012-02-23,2012-04-03,0,0,1,0,174,1,0.0,28,JO,Al Russeifeh,31 36,Auto Repair,XXXX,2125,800,2012-05-03,expired
+407357,Armenia,Agriculture,1,26,Monthly,2012-03-14,2012-04-05,N/A,0,1,0,169,1,0.0,30,AM,Meghri,40 45,Cattle,XXXX,3000,1100,2012-05-05,expired
+407135,Ecuador,Services,1,15,Monthly,2012-02-29,2012-04-07,N/A,0,0,1,147,1,0.0,31,EC,Libertad,-2 -77.5,Upholstery,XXXX,1075,800,2012-05-07,expired
+407523,Armenia,Agriculture,1,26,Monthly,2012-03-14,2012-04-05,N/A,0,1,0,169,1,0.0,57,AM,"Yeghegnadzor, Vayots Dzor region",40 45,Cattle,XXXX,2700,2575,2012-05-05,expired
+405598,Jordan,Clothing,1,18,Monthly,2012-02-23,2012-04-03,0,0,1,0,185,1,100.0,15,JO,Wihdat,31 36,Clothing Sales,XXXX,925,425,2012-05-03,expired
+407137,Ecuador,Services,1,18,Monthly,2012-02-28,2012-04-07,N/A,0,0,1,147,1,100.0,39,EC,Duran (Primavera),-2 -77.5,Beauty Salon,XXXX,1675,1225,2012-05-07,expired
+405622,Jordan,Services,1,18,Monthly,2012-02-25,2012-04-03,0,0,1,0,185,1,100.0,37,JO,Wihdat,31 36,Electronics Repair,XXXX,1575,1125,2012-05-03,expired
+405649,Jordan,Retail,1,20,Monthly,2012-02-26,2012-04-03,0,0,1,0,185,1,100.0,17,JO,Baqaa,31 36,Retail,XXXX,1150,800,2012-05-03,expired
+407426,Armenia,Agriculture,1,26,Monthly,2012-03-16,2012-04-05,N/A,0,1,0,169,1,0.0,38,AM,Verishen village,40 45,Cattle,XXXX,3000,1475,2012-05-05,expired
+405682,Armenia,Food,1,27,Monthly,2012-02-28,2012-04-03,N/A,0,1,0,169,1,0.0,29,AM,Yerevan,40 45,Fish Selling,XXXX,1700,800,2012-05-03,expired
+405100,Jordan,Retail,1,18,Monthly,2012-02-26,2012-04-03,0,0,1,0,174,1,0.0,17,JO,"Al Zarqa, Amman",31 36,Home Products Sales,XXXX,2825,550,2012-05-03,expired
+407410,Armenia,Agriculture,1,26,Monthly,2012-03-14,2012-04-05,N/A,0,1,0,169,1,0.0,32,AM,Verishen village,40 45,Pigs,XXXX,3000,1775,2012-05-05,expired
